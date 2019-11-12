@@ -1,5 +1,6 @@
 
 Miguel Mac
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,6 @@ hola
 
 holaaaaaaaaaaa
 :))))
+=======
+Diego es malo en golf
+>>>>>>> 5f81bd251b6f0a77a2147fddaac5f1a802b2bd88
