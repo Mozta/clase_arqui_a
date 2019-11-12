@@ -2,7 +2,7 @@
 Miguel Mac
 <<<<<<< HEAD
 
-
+Ay Diego, utiliza "Git pull" de manera correcta
 
 
 
