@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Ya jalo esta vaina
+=======
+La clase de arqui es genial
+=)
+anvorguesa
+golf battle
+TODOS 10
+>>>>>>> f39d4253f7485472be74097315225330ae988d7d
