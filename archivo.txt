@@ -1,17 +1,6 @@
+Debiste haber escrito algo aquí, Gaby
 
-Miguel Mac
-<<<<<<< HEAD
+Leal es mi mejor amigo =) UwU
+ahí vas otra vez...
 
-Ay Diego, utiliza "Git pull" de manera correcta
-
-
-
-
-
-hola
-
-holaaaaaaaaaaa
-:))))
-=======
-Diego es malo en golf
->>>>>>> 5f81bd251b6f0a77a2147fddaac5f1a802b2bd88
+Kojima es un Dios
